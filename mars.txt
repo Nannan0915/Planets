@@ -1,4 +1,9 @@
 Mostly cold and dru in most places. Everything is good.
 We do not know if wolfman is happy because it is too cold
 I do not know.
+<<<<<<< HEAD
 new line, new work.
+=======
+dana liu writes a new line
+I am adding a new line
+>>>>>>> 1c4e1ae6d7a95613e0655ed1619c082c6e1a8d95
